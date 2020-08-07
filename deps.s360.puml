@@ -1,0 +1,6 @@
+@startuml
+title ServiceBoilerplate
+
+node ServiceBoilerplate {
+}
+@enduml
