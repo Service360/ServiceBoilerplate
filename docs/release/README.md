@@ -1,6 +1,6 @@
-# Deployment runbooks
+# Release runbooks
 
-This folder should contain documentation on how to deploy/rollback (!) 
+This folder should contain documentation on how to release/rollback (!) 
 service to production/staging/whatever else environment.
 
 ## Risk alert
