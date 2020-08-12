@@ -4,9 +4,9 @@ This repository contains boilerplate structure of the service
 documentation which is fully complaint with Service360.io documentation
 expectations
 
-|Owner|Status|
-|---|---|
-|YourTeamName|In development|
+|Type|Owner|Status|
+|---|---|---|
+|Support|YourTeamName|In development|
 
 ##### Contexts
 
