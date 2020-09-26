@@ -7,6 +7,8 @@ make sure it is still up-to-date and useful is to periodically review
 it. Service Audit is the process designed to help maintain service
 documentation in the most up-to-date and useful way. 
 
+Audit file should be named YYYY-MM-DD.md.
+
 [Service Audit template](TEMPLATE.md) can be found in this folder.
 
 [Read more about Service Audit](https://service360.io/docs/service-audit/) 
